@@ -1,22 +1,30 @@
-# SourceCraft Tracker Bot 🤖
+# TypeScript Learning Journey 🚀
 
-TypeScript automation that syncs SourceCraft development events with Yandex Tracker issues.
+**Rostov-on-Don Hackaton 2025 Project**
 
-## 🚀 Features
+My hands-on journey learning TypeScript through real project development at the Rostov-on-Don 2025 Hackaton.
 
-- ✅ Automatic issue creation from Pull Requests
-- 🚀 Deployment status updates on existing issues  
-- 🔗 Links SourceCraft PRs to Tracker tickets
-- ⚡ TypeScript for type-safe reliability
+## 🏆 Hackaton Project: SourceCraft Tracker Integration
 
-## 🛠 Quick Start
+A practical TypeScript automation bot developed during the Rostov-on-Don 2025 Hackaton. Automates issue tracking between SourceCraft events and Yandex Tracker.
 
-```bash
-# Install dependencies
-npm install
+### 🎯 Hackaton Learning Goals:
+- **TypeScript Fundamentals** under time pressure
+- **Real-world API Integration** with Yandex Tracker
+- **Team Collaboration** with TypeScript
+- **Rapid Prototyping** at hackaton pace
 
-# Build TypeScript
-npm run build
+### 📚 What I'm Learning:
+- **TypeScript Fundamentals** (Types, Interfaces, Generics)
+- **Async/Await** with API calls
+- **Error Handling** in TypeScript
+- **Project Structure** & Configuration
+- **Environment Variables** & Security
 
-# Run the bot
-npm start
+## 🗓 Hackaton Timeline
+- **Event:** Rostov-on-Don Hackaton 2025
+- **Project Duration:** 48-hour sprint
+- **Focus:** Practical TypeScript automation
+- **Status:** In development 🚧
+
+## 🏗 Project Structure
